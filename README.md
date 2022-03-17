@@ -32,7 +32,7 @@ The analysis of the election show that:
   -Diana DeGette with 147.6% of the vote at 545,784 votes.
   
 ## Challenge Overview
-- The election committy wants
+- The election committee wants
   - The voter turnout for each county
   - The percentage of votes from each county out of the total count
   - The county with highest voter turnout
