@@ -5,9 +5,13 @@ A Colorado Board of Elections employee has given me the task of completing the e
 
 
 -Calculate the total number of votes cast.
+
 -A complete list of candidates who recieved votes.
+
 -Calculate the total number of votes each candiadte received.
+
 -Calculate the percentage of votes each candidate won
+
 -The winner of the election based on popular vote.
 
 ## Resources 
